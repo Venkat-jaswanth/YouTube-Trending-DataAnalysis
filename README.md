@@ -33,6 +33,6 @@ This analysis provides valuable insights into the types of content that trend on
 
 ## Future Work
 
-- **Sentiment Analysis**: Analyzing the sentiment of comments to gauge audience reactions.
+- **Sentiment Analysis**: Analyzing the sentiment of comments to gauge audience reactions,
 - **Longitudinal Analysis**: Tracking changes in trending content over time to identify evolving viewer preferences.
 
